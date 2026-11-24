@@ -1,0 +1,2 @@
+# Install a CUDA-enabled PyTorch wheel using the instructions in README.md.
+# Do not install plain torch from PyPI for this CUDA profiling lab.
